@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
+  "name": "RoMusician",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "repository": "https://github.com/RetailDev/RoMusician",
+  "logo": "https://cdn.dribbble.com/users/458461/screenshots/3970293/media/806521d24756e3584379c53401b6ab56.png",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
